@@ -1,9 +1,12 @@
 ### Hey there 👋
 ---
-##My name is Zach Daniels
+## My name is Zach Daniels
 ---
-##Socials
+## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/zachjackdaniels)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](zdaniels.ent@gmail.com)
+---
+## My Tech Skills
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 - 🔭 I’m currently working on ...
@@ -12,5 +15,4 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
